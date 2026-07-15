@@ -1,17 +1,31 @@
-# excelerate_app
+# Excelerate Mobile App
 
-A new Flutter project.
+## Project Overview
 
-## Getting Started
+Excelerate Mobile App is a Flutter application developed as part of the Mobile App Development Internship.
 
-This project is a starting point for a Flutter application.
+The application enables learners to discover educational programs, register for events, receive announcements, and manage their profiles through a modern mobile interface.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Login
+- Home Dashboard
+- Program Listing
+- Program Details
+- Event Registration
+- User Profile
+- Notifications
+- Feedback Submission
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- Flutter
+- Dart
+- Android Studio
+- VS Code
+- Git
+- GitHub
+
+## Status
+
+Week 1 Completed ✅
